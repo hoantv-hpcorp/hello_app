@@ -8,6 +8,8 @@ gem	'bootstrap-sass', '3.2.0.0'
 
 gem 'coffee-script-source', '1.8.0'
 
+gem	'bcrypt'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
